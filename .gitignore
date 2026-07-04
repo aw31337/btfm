@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets — never commit these
+*.env
+*.key
+*.pem
+*.p12
+credentials*
+secrets*
+
+# Output files
+*.pcap
+*.log
+*.out
