@@ -6,6 +6,7 @@
 [![Buy on Amazon](https://img.shields.io/badge/Buy_on-Amazon-orange?logo=amazon)](https://www.amazon.com/dp/B077WF4WYV)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aw31337-0077B5?logo=linkedin)](https://www.linkedin.com/in/aw31337/)
 
 </div>
 
@@ -62,4 +63,4 @@ Documentation and cheatsheets: [CC BY 4.0](https://creativecommons.org/licenses/
 
 - [BTFM on Amazon](https://www.amazon.com/dp/B077WF4WYV)
 - [FTFM on Amazon](https://www.amazon.com/dp/B0F6KD9XJM) — companion forensics manual
-- [LinkedIn](https://www.linkedin.com/in/alan-j-white)
+- [LinkedIn](https://www.linkedin.com/in/aw31337/)
